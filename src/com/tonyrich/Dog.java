@@ -6,4 +6,5 @@ package com.tonyrich;
  */
 public class Dog {
   public String name;
+  public String dep;
 }
